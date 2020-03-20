@@ -1,3 +1,0 @@
-#define QMK_KEYS_PER_SCAN 4
-#define USB_POLLING_INTERVAL_MS 1
-#define FORCE_NKRO
